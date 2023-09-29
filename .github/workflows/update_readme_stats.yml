@@ -17,3 +17,5 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LOC_CHART: "False"
+          UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"
+          COMMIT_BY_ME: "True"
