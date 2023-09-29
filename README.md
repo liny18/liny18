@@ -7,6 +7,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <img align='right' src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="230">
 
 ### A little more about me...
 
