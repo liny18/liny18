@@ -7,7 +7,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2029%20mins-blue)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-### ![Lines of Code chart](https://raw.githubusercontent.com/liny18/liny18/main/assets/bar_graph.png) A little more about me...  
+### A little more about me...  
 
 ```javascript
 const Terry = {
