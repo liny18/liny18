@@ -6,8 +6,9 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2029%20mins-blue)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-### A little more about me...  
 <img align='right' src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="230">
+### A little more about me...
+
 ```javascript
 const Terry = {
     pronouns: "He" | "Him",
