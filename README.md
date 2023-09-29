@@ -3,7 +3,7 @@
 <p><em>3rd year Computer Science and IT Student @ RPI<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Linkedin](https://img.shields.io/badge/-terry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-lin-rpi/)](https://www.linkedin.com/in/terry-lin-rpi/)
+[![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-lin-rpi/)](https://www.linkedin.com/in/terry-lin-rpi/)
 ![GitHub followers](https://img.shields.io/github/followers/liny18?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=liny18.liny18)
 
