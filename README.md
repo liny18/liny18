@@ -27,13 +27,14 @@ const Terry = {
         fullstack: {
             js: ["Next.js"]
         },
-        devOps: ["AWS", "Azure", "Cypress", "Docker🐳", "GitHub", "Playwright", "Postman", "Vite"],
+        devOps: ["AWS", "Azure", "Cypress", "Docker🐳", "GitHub", "Playwright",
+                 "Postman", "Vite"],
         databases: ["MongoDB", "MySql", "PostgreSQL"],
         misc: ["Figma", "Firebase", "Jira", "LaTeX"]
     },
-    certifications:  ["AZ‐900: Microsoft Azure Fundamentals", "SC‐900: Microsoft Security, Compliance,
-                      and Identity Fundamentals", "National Cyber League Team Game: 4TH PLACE OUT OF 3593"],
-    currentProject: "Submitty 🦆"
+    certifications:  ["AZ‐900: Microsoft Azure Fundamentals",
+                      "SC‐900: Microsoft Security, Compliance, and Identity Fundamentals",
+                      "National Cyber League Team Game: 4TH PLACE OUT OF 3593"],
 };
 ```
 
@@ -42,5 +43,15 @@ const Terry = {
 ---
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
