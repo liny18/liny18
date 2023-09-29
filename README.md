@@ -7,7 +7,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2029%20mins-blue)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const Terry = {
