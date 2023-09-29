@@ -44,7 +44,9 @@ const Terry = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
 ```javascript
@@ -53,5 +55,3 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
-
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
