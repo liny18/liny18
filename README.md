@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ### A little more about me...  
-
+<img align='right' src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="230">
 ```javascript
 const Terry = {
     pronouns: "He" | "Him",
@@ -37,7 +37,6 @@ const Terry = {
                       "National Cyber League Team Game: 4TH PLACE OUT OF 3593"],
 };
 ```
-<img align='right' src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="230">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I'd love to connect. So if you want to say hi, I'll be happy to tell you more</b> 🙉
 
