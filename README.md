@@ -1,5 +1,5 @@
 <h2>👋🏻 Hi, I'm Terry <img src="img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="230">
 
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-lin-rpi/)](https://www.linkedin.com/in/terry-lin-rpi/)
 ![GitHub followers](https://img.shields.io/github/followers/liny18?label=Follow&style=social)
