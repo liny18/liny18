@@ -14,7 +14,8 @@ const Terry = {
     education: "Rensselaer Polytechnic Institute",
     major: "Computer Science, Information Technology and Web Science",
     graduation: "May, 2025",
-    languages: ["C", "CSS", "C++", "Go", "Haskell", "HTML", "Java", "Javascript", "MIPS", "PHP", "Python", "SQL", "Typescript", "Verilog"],
+    languages: ["C", "CSS", "C++", "Go", "Haskell", "HTML", "Java", "Javascript",
+"MIPS", "PHP", "Python", "SQL", "Typescript", "Verilog"],
     frameworks: {
         frontEnd: {
             js : ["Vue.js", "React.js"],
