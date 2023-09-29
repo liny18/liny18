@@ -39,8 +39,17 @@ const Terry = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I love connecting with people. So if you want to say hi, I'll be happy to tell you more</b> 😼
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I'd love to connect. So if you want to say hi, I'll be happy to tell you more</b> 🙉
 
+### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 ---
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -120,13 +129,3 @@ Go                       1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
