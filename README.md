@@ -1,5 +1,4 @@
 <h2>👋🏻 Hi, I'm Terry <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="230">
 
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-lin-rpi/)](https://www.linkedin.com/in/terry-lin-rpi/)
 ![GitHub followers](https://img.shields.io/github/followers/liny18?label=Follow&style=social)
@@ -38,6 +37,7 @@ const Terry = {
                       "National Cyber League Team Game: 4TH PLACE OUT OF 3593"],
 };
 ```
+<img align='right' src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="230">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I'd love to connect. So if you want to say hi, I'll be happy to tell you more</b> 🙉
 
