@@ -38,9 +38,9 @@ const Terry = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I'd love to connect. So if you want to say hi, I'll be happy to tell you more</b> 🙉
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I'd love to connect. So if you want to say hi, I'm happy to tell you more</b> 🙉
 
-### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+### Fun fact: I solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
 ```javascript
