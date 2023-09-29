@@ -4,7 +4,6 @@
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-lin-rpi/)](https://www.linkedin.com/in/terry-lin-rpi/)
 ![GitHub followers](https://img.shields.io/github/followers/liny18?label=Follow&style=social)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
-![Lines of Code chart](https://raw.githubusercontent.com/liny18/liny18/main/assets/bar_graph.png)
 ![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2029%20mins-blue)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -114,6 +113,8 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 **Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/liny18/liny18/main/assets/bar_graph.png)
 
  Last Updated on 29/09/2023 08:26:06 UTC
 <!--END_SECTION:waka-->
