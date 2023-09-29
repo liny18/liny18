@@ -51,9 +51,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-337-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-358-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20million%20lines%20of%20code-blue)
 
@@ -61,9 +61,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 > 📦 155.1 kB Used in GitHub's Storage 
  > 
-> 🏆 945 Contributions in the Year 2023
+> 🏆 949 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
@@ -72,10 +72,10 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2524 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-🌆 Daytime                4835 commits        ████████░░░░░░░░░░░░░░░░░   32.77 % 
-🌃 Evening                4544 commits        ████████░░░░░░░░░░░░░░░░░   30.80 % 
-🌙 Night                  2852 commits        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+🌞 Morning                2524 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+🌆 Daytime                4837 commits        ████████░░░░░░░░░░░░░░░░░   32.77 % 
+🌃 Evening                4546 commits        ████████░░░░░░░░░░░░░░░░░   30.80 % 
+🌙 Night                  2852 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -83,9 +83,9 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 Monday                   2265 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 Tuesday                  1066 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 Wednesday                1892 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Thursday                 3963 commits        ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-Friday                   3239 commits        █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Saturday                 1087 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Thursday                 3963 commits        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Friday                   3243 commits        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Saturday                 1087 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 Sunday                   1243 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 ```
 
@@ -128,12 +128,8 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/liny18/liny18/main/assets/bar_graph.png)
-
-
- Last Updated on 29/09/2023 18:42:47 UTC
+ Last Updated on 09/29/2023 22:56:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
