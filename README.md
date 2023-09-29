@@ -31,8 +31,8 @@ const Terry = {
         databases: ["MongoDB", "MySql", "PostgreSQL"],
         misc: ["Figma", "Firebase", "Jira", "LaTeX"]
     },
-    certifications:  ["AZ‐900: Microsoft Azure Fundamentals", "SC‐900: Microsoft Security, Compliance, and Identity
-                      Fundamentals", "National Cyber League Team Game: 4TH PLACE OUT OF 3593"],
+    certifications:  ["AZ‐900: Microsoft Azure Fundamentals", "SC‐900: Microsoft Security, Compliance,
+                      and Identity Fundamentals", "National Cyber League Team Game: 4TH PLACE OUT OF 3593"],
     currentProject: "Submitty 🦆"
 };
 ```
