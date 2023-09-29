@@ -1,12 +1,11 @@
 <h2>👋🏻 Hi, I'm Terry <img src="img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="230">
 
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-lin-rpi/)](https://www.linkedin.com/in/terry-lin-rpi/)
 ![GitHub followers](https://img.shields.io/github/followers/liny18?label=Follow&style=social)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 ![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2029%20mins-blue)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="230">
 ### A little more about me...  
 
 ```javascript
