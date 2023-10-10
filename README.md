@@ -19,7 +19,7 @@ const Terry = {
     frameworks: {
         frontEnd: {
             js : ["Vue.js", "React.js"],
-            css: ["Bootstrap", "Tailwind"]
+            css: ["Bootstrap", "Tailwind", "Quasar"]
         },
         backEnd: {
             js: ["Node.js", "Express.js"],
