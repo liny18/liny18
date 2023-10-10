@@ -27,9 +27,9 @@ const Terry = {
         fullstack: {
             js: ["Next.js"]
         },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
         devOps: ["AWS", "Azure", "Cypress", "Docker🐳", "GitHub", "Playwright",
                  "Postman", "Vite"],
-        databases: ["MongoDB", "MySql", "PostgreSQL"],
         misc: ["Figma", "Firebase", "Jira", "LaTeX"]
     },
     certifications:  ["AZ‐900: Microsoft Azure Fundamentals",
