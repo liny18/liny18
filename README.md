@@ -38,7 +38,7 @@ const Terry = {
 };
 ```
 
-I'd love to connect. So if you want to say hi, I'm happy to tell you more</b> 🙉
+I'd love to connect. So feel free to say hi</b> 🙉
 
 ### Fun fact: I solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
