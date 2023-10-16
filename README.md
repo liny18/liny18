@@ -53,13 +53,11 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 156.2 kB Used in GitHub's Storage 
- > 
-> 🏆 964 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -106,7 +104,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/15/2023 18:38:08 UTC
+ Last Updated on 10/16/2023 18:40:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
