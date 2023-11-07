@@ -59,6 +59,8 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 > 📦 161.1 kB Used in GitHub's Storage 
  > 
+> 🏆 969 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -98,7 +100,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2023 18:38:59 UTC
+ Last Updated on 11/07/2023 18:38:39 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
