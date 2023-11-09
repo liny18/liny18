@@ -6,8 +6,6 @@
 
 <img align='right' src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="230">
 
-### A little more about me...
-
 ```javascript
 const Terry = {
     pronouns: "He" | "Him",
