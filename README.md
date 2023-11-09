@@ -38,15 +38,11 @@ const Terry = {
 };
 ```
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2025%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 161.1 kB Used in GitHub's Storage 
  > 
-> 🏆 969 Contributions in the Year 2023
+> 🏆 971 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -60,18 +56,16 @@ const Terry = {
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    6 hrs 5 mins        █████████████████████████   99.71 % 
-Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Erlang                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CSCI-4430                6 hrs 6 mins        █████████████████████████   100.00 % 
+CSCI-4430                2 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,7 +81,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2023 18:38:29 UTC
+ Last Updated on 11/09/2023 23:54:13 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
