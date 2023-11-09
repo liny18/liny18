@@ -37,19 +37,6 @@ const Terry = {
                       "National Cyber League Team Game: 4TH PLACE OUT OF 3593"],
 };
 ```
-
-I'd love to connect. So feel free to say hi</b> 🙉
-
-### Fun fact: I solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
----
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2025%20mins-blue)
 
