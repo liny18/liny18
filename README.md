@@ -44,28 +44,6 @@ const Terry = {
  > 
 > 🔑 24 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Prolog                   6 hrs 48 mins       ████████████████████████░   94.55 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Perl                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 12 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-CSCI-4430                7 hrs 12 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -79,7 +57,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2023 18:39:02 UTC
+ Last Updated on 12/06/2023 18:39:25 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
