@@ -50,20 +50,16 @@ const Terry = {
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Prolog                   5 hrs 59 mins       ████████████████████████░   95.04 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Perl                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CSCI-4430                6 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,7 +75,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2023 18:39:04 UTC
+ Last Updated on 12/09/2023 18:38:13 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
