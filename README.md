@@ -50,17 +50,16 @@ const Terry = {
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Svelte                   38 mins             █████████████████████████   99.84 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-League-Profile           38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,7 +75,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2024 18:39:36 UTC
+ Last Updated on 01/05/2024 18:38:29 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
