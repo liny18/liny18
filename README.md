@@ -1,4 +1,4 @@
-<h2>👋🏻 Hi, I'm Terry <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>👋🏻 Hi, I'm Terry</h2>
 
 <img align='right' src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="230">
 
