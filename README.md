@@ -6,14 +6,11 @@
 const Terry = {
     pronouns: "He" | "Him",
     education: "Rensselaer Polytechnic Institute",
-    major: "Computer Science, Information Technology and Web Science",
-    graduation: "May, 2025",
-    languages: ["C", "CSS", "C++", "Go", "Haskell", "HTML", "Java", "Javascript",
-                "MIPS", "PHP", "Python", "SQL", "Typescript", "Verilog"],
+    major: "Computer Science",
+    languages: ["C", "CUDA", "C#", "C++", "Go", "Java", "Javascript", "PHP", "Python", "SQL", "Typescript"],
     frameworks: {
         frontEnd: {
             js : ["Vue.js", "React.js"],
-            css: ["Bootstrap", "Tailwind", "Quasar"]
         },
         backEnd: {
             js: ["Node.js", "Express.js"],
@@ -22,13 +19,10 @@ const Terry = {
             js: ["Next.js"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["AWS", "Azure", "Cypress", "Docker🐳", "GitHub", "Playwright",
-                 "Postman", "Vite"],
+        devOps: ["AWS", "Azure", "Cypress", "Docker🐳", "Git", "Playwright",
+                 "Postman"],
         misc: ["Figma", "Firebase", "Jira", "LaTeX"]
     },
-    certifications:  ["AZ‐900: Microsoft Azure Fundamentals",
-                      "SC‐900: Microsoft Security, Compliance, and Identity Fundamentals",
-                      "National Cyber League Team Game: 4TH PLACE OUT OF 3593"],
 };
 ```
 <!--START_SECTION:waka-->
