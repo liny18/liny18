@@ -5,7 +5,8 @@
 ```javascript
 const Terry = {
     major: "Computer Science",
-    languages: ["C", "CUDA", "C#", "C++", "Go", "Java", "Javascript", "PHP", "Python", "SQL", "Typescript"],
+    languages: ["C", "CUDA", "C#", "C++", "Go", "Java",
+                "Javascript", "PHP", "Python", "SQL", "Typescript"],
     frameworks: {
         frontEnd: {
             js : ["Vue.js", "React.js"],
