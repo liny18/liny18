@@ -4,8 +4,6 @@
 
 ```javascript
 const Terry = {
-    pronouns: "He" | "Him",
-    education: "Rensselaer Polytechnic Institute",
     major: "Computer Science",
     languages: ["C", "CUDA", "C#", "C++", "Go", "Java", "Javascript", "PHP", "Python", "SQL", "Typescript"],
     frameworks: {
