@@ -4,23 +4,13 @@
 
 ```javascript
 const Terry = {
-    major: "Computer Science",
-    languages: ["C", "CUDA", "C#", "C++", "Go", "Java",
+    languages: ["C", "C#", "C++", "Go", "Java",
                 "Javascript", "PHP", "Python", "SQL", "Typescript"],
-    frameworks: {
-        frontEnd: {
-            js : ["Vue.js", "React.js"],
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-        },
-        fullstack: {
-            js: ["Next.js"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["AWS", "Azure", "Cypress", "Docker🐳", "Git", "Playwright",
-                 "Postman"],
-        misc: ["Figma", "Firebase", "Jira", "LaTeX"]
+    frameworks and libraries: ["Vue.js", "React.js","Node.js", "Express.js","Next.js"
+                                "MPI", "Numpy", "OpenCV", "CUDA", "JUnit""Next.js"]
+    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    Tools: ["AWS", "Azure", "Cypress", "Docker🐳", "Figma", "Firebase", "Git", "Jira",
+            "LaTeX", "Playwright", "Postman"],
     },
 };
 ```
