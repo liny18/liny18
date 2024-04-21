@@ -4,13 +4,13 @@
 
 ```javascript
 const Terry = {
-    languages: ["C", "C#", "C++", "Go", "Java",
-                "Javascript", "PHP", "Python", "SQL", "Typescript"],
-    libraries: ["Vue.js", "React.js","Node.js", "Express.js","Next.js"
-                                "MPI", "Numpy", "OpenCV", "CUDA", "JUnit""Next.js"],
+    languages: ["C", "C#", "C++", "Go", "Java", "Javascript",
+                "PHP", "Python", "SQL", "Typescript"],
+    libraries: ["Vue.js", "React.js","Node.js", "Express.js","Next.js",
+                "MPI", "Numpy", "OpenCV", "CUDA", "JUnit""Next.js"],
     databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    Tools: ["AWS", "Azure", "Cypress", "Docker🐳", "Figma", "Firebase", "Git", "Jira",
-            "LaTeX", "Playwright", "Postman"],
+        Tools: ["AWS", "Azure", "Cypress", "Docker🐳", "Figma", "Firebase",
+                "Git", "Jira", "LaTeX", "Playwright", "Postman"],
     },
 };
 ```
