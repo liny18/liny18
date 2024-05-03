@@ -18,22 +18,14 @@ const Terry = {
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/New_York
-
 💬 Programming Languages: 
 C                        10 hrs 9 mins       ████████████████████████░   97.86 % 
 Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
-🔥 Editors: 
-VS Code                  10 hrs 22 mins      █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 OperatingSystems         10 hrs 21 mins      █████████████████████████   99.86 % 
 opsys-orz                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-💻 Operating System: 
-Mac                      10 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -49,7 +41,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2024 18:38:50 UTC
+ Last Updated on 05/03/2024 01:29:57 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
