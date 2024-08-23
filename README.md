@@ -6,11 +6,10 @@
 const Terry = {
     languages: ["C", "C#", "C++", "Go", "Java", "Javascript",
                 "PHP", "Python", "SQL", "Typescript"],
-    libraries: ["Vue.js", "React.js","Node.js", "Express.js","Next.js",
-                "MPI", "Numpy", "OpenCV", "CUDA", "JUnit"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        Tools: ["AWS", "Azure", "Cypress", "Docker🐳", "Figma", "Firebase",
-                "Git", "Jira", "LaTeX", "Playwright", "Postman"],
+    libraries: ["React.js","Node.js", ".Net", "Express.js",
+                "Next.js", "Vue.js", "Astro.js", "CUDA"],
+        Tools: ["AWS", "Azure", "Docker🐳", "Git", "Figma",
+                "Cypress", "Playwright", "Postman", "Jira"],
     },
 };
 ```
