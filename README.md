@@ -14,8 +14,19 @@ const Terry = {
 };
 ```
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 11/10/2024 18:41:39 UTC
+```text
+💬 Programming Languages: 
+Python                   1 hr 47 mins        ███████████████████████░░   93.70 % 
+Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+
+🐱‍💻 Projects: 
+comp-prog                1 hr 55 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 11/11/2024 18:43:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
